@@ -1,0 +1,11 @@
+Data collection:
+We collect only the results of the program, namely the generated text. This data is used exclusively to improve and develop our AI bot, which helps us improve the quality of interactions and the accuracy of responses. All data is collected anonymously and is not linked to user identities.
+
+Disclaimer of liability:
+We do not link personal data to users, and your request remains anonymous. Despite taking all possible measures to protect information, the service cannot fully guarantee the security of data transmitted over the Internet. Please keep this in mind when using our AI.
+
+Data Usage:
+Data is used solely to improve AI performance. We do not share or sell information to third parties.
+
+Data security:
+We use standard security measures to protect the collected data, but we cannot guarantee complete protection against unauthorized access.
